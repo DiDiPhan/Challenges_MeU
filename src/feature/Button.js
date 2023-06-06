@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "../assets/scss/Button.module.scss";
-import ButtonComponent from "../components/Button";
+import ButtonComponent from "../components/ButtonComponent";
 
 function Button() {
   return (
